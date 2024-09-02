@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 15px;
+}
+
+.botao {
+    background-color: #000000;
+    color: #ffffff;
+    border: 4px solid transparent;
+    border-radius: 40px;
+    cursor: pointer;
+    display: inline-block;
+    padding: 18px;
+    text-align: center;
+}
+
+/* img {
+    margin-top: 60px;
+} */
+
+li {
+    background-color: #06b6d4;
+    color: #ffffff;
+    border: 4px solid transparent;
+    border-radius: 40px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.item.selecionado {
+    background-color: #000000;
+    color: #ffffff;
+}
